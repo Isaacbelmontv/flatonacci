@@ -19,4 +19,5 @@ function createFlatonacci(data, n){
     }
 }
 createFlatonacci([0, 0 ,0], 0);
+//createFlatonacci([1, 1 ,1], 8);
 
